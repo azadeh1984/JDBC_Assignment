@@ -48,13 +48,26 @@
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se.lexicon.App" />
-      <module name="JDBC_Assignment" />
+      <module name="JDBC_Workshop" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="se.lexicon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="JDBC_Workshop" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="JDBC_Workshop" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
